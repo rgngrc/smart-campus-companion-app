@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Smart Campus Companion App"
 include(":app")
- 
